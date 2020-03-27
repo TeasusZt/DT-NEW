@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.9.3" host="www.draw.io" modified="2020-03-27T03:35:51.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="bcYgqRh8Utnb7nLEl9I3" pages="16">
+<mxfile type="github" version="12.9.3" host="www.draw.io" modified="2020-03-27T03:36:12.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="3b7xifhjM7DrZGOT7d5h" pages="16">
   <diagram id="eeqbbg8ScYCf5zG0aNKg" name="绑定目标">
     <mxGraphModel grid="1" dx="319" dy="253" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="OuEWBvMzxqm6FkGFGAbK-1" value="借出&lt;br&gt;土壤&lt;br&gt;样本" parent="nibBA06wig0-snlMtLil-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="120" y="120" width="40" height="80" />
         </mxCell>
-        <mxCell id="OuEWBvMzxqm6FkGFGAbK-9" parent="nibBA06wig0-snlMtLil-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" source="OuEWBvMzxqm6FkGFGAbK-2" edge="1">
+        <mxCell id="OuEWBvMzxqm6FkGFGAbK-9" parent="nibBA06wig0-snlMtLil-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" source="OuEWBvMzxqm6FkGFGAbK-2" target="OuEWBvMzxqm6FkGFGAbK-6" edge="1">
           <mxGeometry as="geometry" relative="1">
             <mxPoint as="targetPoint" x="140" y="40" />
           </mxGeometry>
@@ -227,7 +227,7 @@
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="OuEWBvMzxqm6FkGFGAbK-6" value="样本信息借出管理模块" parent="nibBA06wig0-snlMtLil-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
-          <mxGeometry as="geometry" x="70" width="140" height="40" />
+          <mxGeometry as="geometry" x="70" y="20" width="140" height="40" />
         </mxCell>
       </root>
     </mxGraphModel>
