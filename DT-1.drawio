@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.9.8" host="www.draw.io" modified="2020-04-06T10:46:34.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="IuTBz_39hUUnLxz8eayO" pages="14">
+<mxfile type="github" version="12.9.8" host="www.draw.io" modified="2020-04-06T11:21:33.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="wlKlQfcaFGfrBDHISQ3C" pages="14">
   <diagram id="eeqbbg8ScYCf5zG0aNKg" name="绑定目标">
     <mxGraphModel grid="1" dx="599" dy="412" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
       <root>
         <mxCell id="mNuRpi-Y55zXEyKoLXDD-0" />
         <mxCell id="mNuRpi-Y55zXEyKoLXDD-1" parent="mNuRpi-Y55zXEyKoLXDD-0" />
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-0" value="土壤样&lt;br&gt;本信息&lt;br&gt;管理&lt;br&gt;模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-0" value="土壤样&lt;br&gt;本信息&lt;br&gt;管理" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" y="120" width="50" height="90" />
         </mxCell>
         <mxCell id="dTrc3mqz48sjtZ1OqrxU-10" parent="mNuRpi-Y55zXEyKoLXDD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" source="dTrc3mqz48sjtZ1OqrxU-1">
@@ -248,7 +248,7 @@
             <mxPoint as="targetPoint" x="115" y="80" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-1" value="仓库存&lt;br&gt;储信息&lt;br&gt;管理&lt;br&gt;模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-1" value="仓库存&lt;br&gt;储信息&lt;br&gt;管理" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="90" y="120" width="50" height="90" />
         </mxCell>
         <mxCell id="dTrc3mqz48sjtZ1OqrxU-11" parent="mNuRpi-Y55zXEyKoLXDD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" source="dTrc3mqz48sjtZ1OqrxU-2">
@@ -256,7 +256,7 @@
             <mxPoint as="targetPoint" x="205" y="80" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-2" value="样本借&lt;br&gt;出信息&lt;br&gt;管理&lt;br&gt;模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-2" value="样本借&lt;br&gt;出信息&lt;br&gt;管理" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="180" y="120" width="50" height="90" />
         </mxCell>
         <mxCell id="dTrc3mqz48sjtZ1OqrxU-12" parent="mNuRpi-Y55zXEyKoLXDD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" source="dTrc3mqz48sjtZ1OqrxU-4">
@@ -264,7 +264,7 @@
             <mxPoint as="targetPoint" x="295" y="80" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-4" value="货箱/货架信息&lt;br&gt;管理&lt;br&gt;模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-4" value="货箱/货架信息&lt;br&gt;管理" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="270" y="120" width="50" height="90" />
         </mxCell>
         <mxCell id="dTrc3mqz48sjtZ1OqrxU-13" parent="mNuRpi-Y55zXEyKoLXDD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" source="dTrc3mqz48sjtZ1OqrxU-5">
@@ -272,10 +272,10 @@
             <mxPoint as="targetPoint" x="385" y="80" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-5" value="3D样本&lt;br&gt;库模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-5" value="3D&lt;br&gt;样本库" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="360" y="120" width="50" height="90" />
         </mxCell>
-        <mxCell id="dTrc3mqz48sjtZ1OqrxU-6" value="样本库&lt;br&gt;监控信息管理模块" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="dTrc3mqz48sjtZ1OqrxU-6" value="样本库&lt;br&gt;维护信息管理" parent="mNuRpi-Y55zXEyKoLXDD-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="450" y="120" width="50" height="90" />
         </mxCell>
         <mxCell id="dTrc3mqz48sjtZ1OqrxU-8" parent="mNuRpi-Y55zXEyKoLXDD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="dTrc3mqz48sjtZ1OqrxU-7" target="dTrc3mqz48sjtZ1OqrxU-0">
@@ -779,8 +779,8 @@
         <mxCell id="ZIwdmiUOiZ6nGfO6CuNt-19" value="货箱信息修改" parent="ZIwdmiUOiZ6nGfO6CuNt-1" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="560" y="290" width="160" height="60" />
         </mxCell>
-        <mxCell id="ZIwdmiUOiZ6nGfO6CuNt-28" value="货箱/货架信息管理子系统" parent="ZIwdmiUOiZ6nGfO6CuNt-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
-          <mxGeometry as="geometry" x="190" y="20" width="150" height="20" />
+        <mxCell id="ZIwdmiUOiZ6nGfO6CuNt-28" value="货箱/货架信息管理" parent="ZIwdmiUOiZ6nGfO6CuNt-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="210" y="20" width="110" height="20" />
         </mxCell>
         <mxCell id="ZIwdmiUOiZ6nGfO6CuNt-36" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" parent="ZIwdmiUOiZ6nGfO6CuNt-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
           <mxGeometry as="geometry" x="430" y="210" width="80" height="20" />
@@ -840,8 +840,8 @@
         <mxCell id="utR9AsVAEefE5Nw8OuF_-22" value="查看详细信息" parent="fowGqQimyK0QLWP-YL5X-1" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="560" y="70" width="160" height="60" />
         </mxCell>
-        <mxCell id="utR9AsVAEefE5Nw8OuF_-25" value="土壤样本信息管理子系统" parent="fowGqQimyK0QLWP-YL5X-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
-          <mxGeometry as="geometry" x="245" y="30" width="150" height="20" />
+        <mxCell id="utR9AsVAEefE5Nw8OuF_-25" value="土壤样本信息管理" parent="fowGqQimyK0QLWP-YL5X-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
+          <mxGeometry as="geometry" x="265" y="30" width="110" height="20" />
         </mxCell>
         <mxCell id="utR9AsVAEefE5Nw8OuF_-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" parent="fowGqQimyK0QLWP-YL5X-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1">
           <mxGeometry as="geometry" x="440" y="70" width="80" height="20" />
@@ -874,7 +874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jFQ91U2oY_w7NVXnHxLj" name="操作人员、样品库管理员流程">
-    <mxGraphModel grid="1" dx="1198" dy="824" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="599" dy="412" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rogO1z9pmJQJRkyu4SmI-0" />
         <mxCell id="rogO1z9pmJQJRkyu4SmI-1" parent="rogO1z9pmJQJRkyu4SmI-0" />
