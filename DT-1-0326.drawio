@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.9.8" host="www.draw.io" modified="2020-04-07T01:56:55.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="dx-F8Hk8iLQEnXowXkWD" pages="23">
+<mxfile type="github" version="12.9.8" host="www.draw.io" modified="2020-04-07T01:58:22.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="uolBaSyCMibjA2ZsmKNB" pages="23">
   <diagram id="eeqbbg8ScYCf5zG0aNKg" name="绑定目标">
     <mxGraphModel grid="1" dx="924" dy="541" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1388,10 +1388,10 @@
       <root>
         <mxCell id="eq5lRDljBdiDBoDolNSy-0" />
         <mxCell id="eq5lRDljBdiDBoDolNSy-1" parent="eq5lRDljBdiDBoDolNSy-0" />
-        <mxCell id="Mhdlip9MDSOCJY9kVHjv-0" value="3D&lt;br&gt;样本库&lt;br&gt;状态&lt;br&gt;显示" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="Mhdlip9MDSOCJY9kVHjv-0" value="3D&lt;br&gt;仓库&lt;br&gt;维护&lt;br&gt;信息&lt;br&gt;显示" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="40" y="190" width="40" height="100" />
         </mxCell>
-        <mxCell id="Mhdlip9MDSOCJY9kVHjv-1" value="维护&lt;br&gt;状态&lt;br&gt;文字&lt;br&gt;提醒" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="Mhdlip9MDSOCJY9kVHjv-1" value="文字&lt;br&gt;显示&lt;br&gt;维护&lt;br&gt;信息" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="100" y="190" width="40" height="100" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-7" parent="eq5lRDljBdiDBoDolNSy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" source="xcDjFP1QtO9_5KMDdqtT-0" target="Mhdlip9MDSOCJY9kVHjv-0" edge="1">
@@ -1400,7 +1400,7 @@
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-8" parent="eq5lRDljBdiDBoDolNSy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" source="xcDjFP1QtO9_5KMDdqtT-0" target="Mhdlip9MDSOCJY9kVHjv-1" edge="1">
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
-        <mxCell id="xcDjFP1QtO9_5KMDdqtT-0" value="维护状态提醒" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
+        <mxCell id="xcDjFP1QtO9_5KMDdqtT-0" value="维护信息显示" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
           <mxGeometry as="geometry" x="20" y="110" width="140" height="40" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-1" value="样本余量提醒" parent="eq5lRDljBdiDBoDolNSy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1">
